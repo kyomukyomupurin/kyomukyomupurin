@@ -1,8 +1,14 @@
 # kyomukyomupurin
 
-Love competitive programming, Kyoto, Shogi, 中本.
+Love competitive programming, Kyoto, Shogi, 中本:blush:.
 
-## Programming language
+## :sparkles:About
+
+- [GitHub](https://github.com/kyomukyomupurin)
+- [hatenablog](https://kyomukyomupurin.hatenablog.com/)
+- [GitHub pages](https://kyomukyomupurin.github.io/)
+
+## :sparkles:Programming language
 
 - C++
 - Python
