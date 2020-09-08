@@ -1,16 +1,17 @@
-# kyomukyomupurin
+# Ryo Murakami
 
-Love competitive programming, Kyoto, Shogi, 中本:blush:.
+Love programming, Kyoto, Shogi, 中本:blush:  
+Interested in automation, security, web, algorithm.
 
 ## :sparkles:About
 
-- [GitHub](https://github.com/kyomukyomupurin)
-- [hatenablog](https://kyomukyomupurin.hatenablog.com/)
-- [GitHub pages](https://kyomukyomupurin.github.io/)
+- :bulb:[GitHub](https://github.com/kyomukyomupurin)
+- :bulb:[hatenablog](https://kyomukyomupurin.hatenablog.com/)
+- :bulb:[GitHub pages](https://kyomukyomupurin.github.io/)
 
 ## :sparkles:Programming language
 
-- C++
-- Python
-- Rust
-- JavaScript
+- :white_check_mark:C++
+- :white_check_mark:Python
+- :white_check_mark:Rust
+- :white_check_mark:JavaScript
