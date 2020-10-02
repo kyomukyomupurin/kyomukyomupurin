@@ -17,3 +17,4 @@ Interested in automation, security, web, algorithm.
 - :white_check_mark:Rust(勉強中、厳密な文法に泣かされている)
 - :white_check_mark:JavaScript(勉強中、適当な文法に泣かされている。Google Apps Script で LINE の bot を書いて運用している)
 - :white_check_mark:C(そこそこ書ける、最近ポインタへの理解がかなり深まった)
+- :white_check_mark:Swift(ちょっとだけ開発経験あり、でも基本文法にも怪しいところがあるかも)
