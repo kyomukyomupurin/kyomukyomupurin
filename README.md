@@ -1,6 +1,6 @@
 # Ryo Murakami
 
-Software engineer
+Software engineer.  
 Love C++, Kyoto, Shogi, 中本.  
 Interested in Rust, compiler, automation, security, algorithm.
 
