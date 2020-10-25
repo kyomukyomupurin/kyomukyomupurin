@@ -13,9 +13,9 @@ Interested in Rust, compiler, automation, security, algorithm.
 
 ## :sparkles:Programming language
 
-- C++ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star::star::star::star:
-- Python &nbsp;&nbsp;&nbsp;&nbsp;:star::star::star::star:
-- Rust &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :star::star:
+- C++ :star::star::star::star::star:
+- Python :star::star::star::star:
+- Rust :star::star:
 - JavaScript :star::star:
-- C &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star::star::star::star:
-- Swift &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:star:
+- C :star::star::star::star:
+- Swift :star:
