@@ -1,7 +1,7 @@
 # Ryo Murakami
 
-Software engineer.  
-Love C++, Kyoto, Shogi, 中本.  
+Engineer.  
+Love C++, Kyoto, 中本.  
 Interested in Rust, compiler, automation, security, algorithm.
 
 ## :sparkles:About
@@ -13,9 +13,9 @@ Interested in Rust, compiler, automation, security, algorithm.
 
 ## :sparkles:Programming language
 
-- :white_check_mark:C++(結構書ける、プログラミングコンテストでずっと使っててリファレンス読み漁るのが好き)
-- :white_check_mark:Python(そこそこ書ける、大学院での研究で統計処理のコードを書いたり、自動化のためのツールや LINE の bot をいくつか書いたりした)
-- :white_check_mark:Rust(勉強中、厳密な文法に泣かされている。プログラミングコンテストでも使いたい)
-- :white_check_mark:JavaScript(勉強中、適当な文法に泣かされている。Google Apps Script で LINE の bot を書いて運用している)
-- :white_check_mark:C(そこそこ書ける、ポインタをゴリゴリ触るコードも大丈夫)
-- :white_check_mark:Swift(ちょっとだけ開発経験あり、でも基本文法にも怪しいところがあるかも)
+- C++        :star::star::star::star::star:
+- Python     :star::star::star::star:
+- Rust       :star::star:
+- JavaScript :star::star:
+- C          :star::star::star::star:
+- Swift      :star:
