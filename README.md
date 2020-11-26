@@ -7,7 +7,6 @@ Interested in Rust, compiler, automation, security, algorithm.
 ## :sparkles:About
 
 - [GitHub](https://github.com/kyomukyomupurin)
-- [hatenablog](https://kyomukyomupurin.hatenablog.com/)
 - [GitHub pages](https://kyomukyomupurin.github.io/)
 - [AtCoder](https://atcoder.jp/users/kyomukyomupurin)(そろそろコンテスト復帰する、青になりたい)
 
