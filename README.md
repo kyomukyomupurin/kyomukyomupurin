@@ -1,13 +1,12 @@
 # Ryo Murakami
 
 Engineer.  
-Love C++, Kyoto, 中本.  
-Interested in Rust, compiler, automation, security, algorithm.
+Love C++, Kyoto.  
+Interested in network, security, automation.  
 
 ## :sparkles:About
 
 - [GitHub](https://github.com/kyomukyomupurin)
-- [GitHub pages](https://kyomukyomupurin.github.io/)
 - [AtCoder](https://atcoder.jp/users/kyomukyomupurin)(そろそろコンテスト復帰する、青になりたい)
 
 ## :sparkles:Programming language
